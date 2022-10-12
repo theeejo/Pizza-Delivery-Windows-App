@@ -12,7 +12,12 @@ Unfinished Pizza Delivery App using Windows Forms C# .NET
 
 - removing an item from the order
 - improving the UI and UX
+- creating setup project in Visual Studio using Setup Wizard
 - other features
+
+### How To Use
+
+- run the Pizza Delivery.exe from the Pizza Delivery directory
 
 ### Usage Demo
 
