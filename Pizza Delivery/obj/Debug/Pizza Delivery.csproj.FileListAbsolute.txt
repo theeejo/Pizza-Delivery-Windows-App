@@ -1,0 +1,11 @@
+C:\Users\Teo\source\repos\Pizza Delivery\Pizza Delivery\obj\Debug\Pizza Delivery.csprojAssemblyReference.cache
+C:\Users\Teo\source\repos\Pizza Delivery\Pizza Delivery\obj\Debug\Pizza_Delivery.Form1.resources
+C:\Users\Teo\source\repos\Pizza Delivery\Pizza Delivery\obj\Debug\Pizza_Delivery.Form2.resources
+C:\Users\Teo\source\repos\Pizza Delivery\Pizza Delivery\obj\Debug\Pizza_Delivery.Properties.Resources.resources
+C:\Users\Teo\source\repos\Pizza Delivery\Pizza Delivery\obj\Debug\Pizza Delivery.csproj.GenerateResource.cache
+C:\Users\Teo\source\repos\Pizza Delivery\Pizza Delivery\obj\Debug\Pizza Delivery.csproj.CoreCompileInputs.cache
+C:\Users\Teo\source\repos\Pizza Delivery\Pizza Delivery\obj\Debug\Pizza Delivery.exe
+C:\Users\Teo\source\repos\Pizza Delivery\Pizza Delivery\obj\Debug\Pizza Delivery.pdb
+C:\Users\Teo\source\repos\Pizza Delivery\Pizza Delivery\bin\Debug\Pizza Delivery.exe.config
+C:\Users\Teo\source\repos\Pizza Delivery\Pizza Delivery\bin\Debug\Pizza Delivery.exe
+C:\Users\Teo\source\repos\Pizza Delivery\Pizza Delivery\bin\Debug\Pizza Delivery.pdb
